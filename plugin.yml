@@ -1,0 +1,7 @@
+name: Reparations
+main: core.anticheat.Core
+version: 0.0.1
+author: Reparations
+commands:
+  syringeserverprotection:
+    description: Main command
